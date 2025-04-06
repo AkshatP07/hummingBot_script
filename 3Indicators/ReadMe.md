@@ -1,4 +1,4 @@
-Handwritten Code Explaination (Sorry for bad writing) https://drive.google.com/drive/folders/10MV-PyUtNhXlWcQHjkEMeNwj0Q-h2YPC
+Handwritten Code Explaination (Sorry for bad handwriting) https://drive.google.com/drive/folders/10MV-PyUtNhXlWcQHjkEMeNwj0Q-h2YPC
 
 # 🧠 Custom Market Making Strategy — Hummingbot
 
